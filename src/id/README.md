@@ -4,60 +4,60 @@ icon: home
 title: Yuorb
 heroImage: /logo.svg
 heroText: Yuorb
-tagline: New Ithkuil Grammar Community Revised Edition
+tagline: Tata Bahasa Ithkuil Baru Edisi Revisi Komunitas
 actions:
-  - text: Official Docs Revised 💡
+  - text: Dokumentasi Resmi yang Direvisi💡
     link: ./docs/
     type: primary
 
-  - text: Tutorials
+  - text: Tutorial
     link: /tutorial/
 
-  - text: Supplements
-    link: ./sup/
+  - text: Suplemen
+    link: en/sup/
 
 features:
-  - title: New Ithkuil Official
+  - title: New Ithkuil Resmi
     icon: fas fa-book-open-reader
-    details: the original
+    details: Yang asli
     link: http://www.ithkuil.net
 
   - title: Discord
     icon: fab fa-discord
-    details: Most active Ithkuil server
+    details: Peladen Ithkuil yang paling aktif
     link: https://discord.gg/PMzFpYJ
 
-  - title: Japanese Discord
+  - title: Discord Jepang
     icon: fab fa-discord
-    details: Ithkuil server for Japanese speakers
+    details: Peladen Ithkuil untuk para penutur bahasa Jepang
     link: https://discord.gg/8ACHfqNwwb
 
   - title: Reddit
     icon: fab fa-reddit-alien
-    details: Ithkuil forum
+    details: Forum Ithkuil
     link: https://www.reddit.com/r/Ithkuil/new/
 
   - title: Telegram
     icon: fab fa-telegram
-    details: Ithkuil group
+    details: Grup Ithkuil
     link: https://t.me/ithkuil_cn
 
   - title: QQ
     icon: fas fa-user-group
-    details: Ithkuil group<br><a href="javascript:(function copyQQGroupCode() { const qqGroupCode = '865538600'; const textarea = document.createElement('textarea'); textarea.value = qqGroupCode; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); alert('Group number copied successfully'); })()">Click to copy the QQ group number</a>
+    details: Grup Ithkuil<br><a href="javascript:(function copyQQGroupCode() { const qqGroupCode = '865538600'; const textarea = document.createElement('textarea'); textarea.value = qqGroupCode; document.body.appendChild(textarea); textarea.select(); document.execCommand('copy'); document.body.removeChild(textarea); alert('Nomor grup berhasil disalin'); })()">Klik untuk menyalin nomor grup QQ</a>
 
   - title: Github
     icon: fab fa-github-alt
-    details: Github projects
+    details: Proyek-proyek Github
     link: https://github.com/yuorb
 
   - title: Ithkuil Place
     icon: fas fa-box-archive
-    details: Archives of past versions
+    details: Arsip versi-versi sebelumnya
     link: https://ithkuil.place
 
 copyright: false
-footer: CC BY-NC-SA 4.0 Licensed | © 2023-present Yuorb
+footer: Dilisensikan di bawah CC BY-NC-SA 4.0 | © 2023-present Yuorb
 ---
 
 ::: center
@@ -91,19 +91,21 @@ color: var(--my-bg)
 
 # *Yuorb*
 
-The given analysis represents the Stem 0 of √-RB- combined with Abstract Perspective, indicating “SIGNIFICATION, TRANSLATION, INTERPRETATION”; essentially encompassing the purpose of this organization.
+Analisis yang diberikan mewakili Batang 0 dari √-RB- yang dikombinasikan dengan Perspektif Abstrak, yang menunjukkan “SIGNIFIKANSI, TERJEMAHAN, INTERPRETASI”; pada dasarnya mencakup tujuan organisasi ini.
 
 Maţřëullaitaẓa: a place where one learns to say New Ithkuil
 
-The endonym used to refer to this language is <q>Maţřëullait</q>, which signifies “this feedback-driven, self-sustaining, and autopoietic system that is based on linguistic communication, whose dynamic complexity generates and manifests synergistic and emergent effects and properties.”
+Maţřëullaitaẓa: tempat di mana seseorang mempelajari bahasa Ithkuil Baru
+
+Endonim yang digunakan untuk menyebut bahasa ini adalah <q>Maţřëullait</q>, yang berarti “sistem yang digerakkan oleh umpan balik, mandiri, dan autopoietik yang didasarkan pada komunikasi linguistik, yang kompleksitas dinamisnya menghasilkan dan mewujudkan efek dan sifat sinergis dan muncul.”
 
 :::
 
 ------
 
-Shield: [CC BY-NC-SA 4.0][cc-by-nc-sa]
+Lencana: [CC BY-NC-SA 4.0][cc-by-nc-sa]
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+Karya ini dilisensikan di bawah [Lisensi Internasional Creative Commons Atribusi-NonKomersial-BerbagiSerupa 4.0][cc-by-nc-sa].
 
 ![][cc-by-nc-sa-image] ![][cc-by-nc-sa-shield] [CC BY-NC-SA 4.0][cc-by-nc-sa]
 
