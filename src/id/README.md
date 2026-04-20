@@ -17,7 +17,7 @@ actions:
     link: en/sup/
 
 features:
-  - title: Situs Ithkuil Baru Resmi
+  - title: Situs Resmi Ithkuil Baru
     icon: fas fa-book-open-reader
     details: Yang asli
     link: http://www.ithkuil.net
