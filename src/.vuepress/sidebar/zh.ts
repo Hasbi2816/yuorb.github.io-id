@@ -1,7 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
-  "/": [
+  "/docs": [
     {
       text: "语法文档",
       link: "",
